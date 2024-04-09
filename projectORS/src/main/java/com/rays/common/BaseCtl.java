@@ -27,7 +27,7 @@ import com.rays.dto.UserDTO;
 /**
  * Base controller class contains get, search, save, delete REST APIs
  * 
- * @author Rupali Patel
+ * @author Sunidhi Johri
  */
 public abstract class BaseCtl<F extends BaseForm, T extends BaseDTO, S extends BaseServiceInt<T>> {
 
